@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root v="20140314">
+	<entry cmd="gcc" sourceKind="C">
+		<path kind="RELATIVE" rawPath="Release/../capidtmf.c"/>
+		<option kind="IGNORED" cmd="-O3"/>
+		<option kind="STOP_BEFORE_LINKING" cmd="-c"/>
+		<option kind="UNHANDLED_ERROR" cmd="-fmessage-length=0"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MMD"/>
+		<option kind="IGNORED_PREPROCESSOR" cmd="-MP"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MF&quot;capidtmf.d&quot;"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MT&quot;capidtmf.o&quot;"/>
+		<option kind="OBJECT" cmd="-o">
+			<path kind="RELATIVE" rawPath="Release/capidtmf.o"/>
+		</option>
+	</entry>
+</root>
